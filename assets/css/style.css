@@ -1,0 +1,39 @@
+
+body {
+    background-color:blue;
+}
+
+.container {
+    
+}
+
+
+#giphyHead {
+    color:blue;
+    text-align:center;
+    margin-top: 30px;
+}
+
+
+#carButtons {
+
+}
+
+
+#car-form {
+    margin-top:-20px;
+}
+
+
+#addCarButton {
+margin-left: -40px;
+}
+
+
+#gitContainer {
+    
+}
+
+.car {
+    margin-left:10px;
+}
